@@ -1,0 +1,10 @@
+.activeTab {
+    border-bottom-color: '#FF595B';
+}
+
+.PostTabs  {
+    border-bottom-color: '#938F99';
+    border-bottom-width: 4px;
+    border-radius: 0;
+    flex-basis: 50%;
+}
